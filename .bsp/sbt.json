@@ -1,0 +1,1 @@
+{"name":"sbt","version":"1.4.4","bspVersion":"2.0.0-M5","languages":["scala"],"argv":["/Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/jre/bin/java","-Xms100m","-Xmx100m","-classpath","/var/folders/91/rzgmcdt91tj7cj708t8_whmr0000gn/T/metals7958534880211037491/sbt-launch.jar","xsbt.boot.Boot","-bsp"]}
